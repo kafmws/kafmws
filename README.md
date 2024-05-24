@@ -9,9 +9,9 @@ Here are some ideas to get you started:
 
 -->
 
-- 🔭 I’m currently working on computer vision and multimodal large language models.
+- 🔭 I’m interested in computer vision and multimodal large language models.
 - 🌱 I’m currently learning all about computer science, especially ML/DL.
-- 👯 I’m looking to collaborate on scientific research.
+- 👯 I’m looking for a work opportunity about software development.
 - 📫 How to reach me: wdxdesperado at qq.com
 
 <!--
